@@ -10,10 +10,10 @@ It demonstrates the use of **semantic HTML tags** like `<header>`, `<nav>`, `<ma
 portfolio-website/
 │
 ├── index.html        # Main portfolio page
-├── recipe-page/
+├── recipe/
 │   └── index.html    # Recipe project
-├── birthday-card/
-│   └── index.html    # Birthday card project
+├── B_invitation/
+│   └── index.html    # Birthday invitation project
 └── README.md
 
 ---
