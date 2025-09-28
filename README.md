@@ -22,7 +22,8 @@ portfolio-website/
 
 - **Header** → Title and navigation menu  
 - **About Me** → Introduction and bio  
-- **Projects** → Showcase of my work  
+- **My Projects** → Showcase of my work
+- **Technical Skills** → About my technical skills
 - **Contact** → How to reach me  
 - **Footer** → Copyright info  
 
